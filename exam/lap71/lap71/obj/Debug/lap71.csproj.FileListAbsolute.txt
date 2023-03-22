@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap71\lap71\bin\Debug\lap71.exe.config
+C:\Users\DELL\source\repos\exam\lap71\lap71\bin\Debug\lap71.exe
+C:\Users\DELL\source\repos\exam\lap71\lap71\bin\Debug\lap71.pdb
+C:\Users\DELL\source\repos\exam\lap71\lap71\obj\Debug\lap71.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap71\lap71\obj\Debug\lap71.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap71\lap71\obj\Debug\lap71.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap71\lap71\obj\Debug\lap71.exe
+C:\Users\DELL\source\repos\exam\lap71\lap71\obj\Debug\lap71.pdb

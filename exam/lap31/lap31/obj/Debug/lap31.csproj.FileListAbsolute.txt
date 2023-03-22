@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap31\lap31\obj\Debug\lap31.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap31\lap31\obj\Debug\lap31.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap31\lap31\obj\Debug\lap31.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap31\lap31\bin\Debug\lap31.exe.config
+C:\Users\DELL\source\repos\exam\lap31\lap31\bin\Debug\lap31.exe
+C:\Users\DELL\source\repos\exam\lap31\lap31\bin\Debug\lap31.pdb
+C:\Users\DELL\source\repos\exam\lap31\lap31\obj\Debug\lap31.exe
+C:\Users\DELL\source\repos\exam\lap31\lap31\obj\Debug\lap31.pdb

@@ -1,0 +1,3 @@
+C:\Users\DELL\source\repos\exam\lap61\lap61\obj\Debug\lap61.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap61\lap61\obj\Debug\lap61.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap61\lap61\obj\Debug\lap61.csproj.CoreCompileInputs.cache

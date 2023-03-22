@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap24\lap24\bin\Debug\lap24.exe.config
+C:\Users\DELL\source\repos\exam\lap24\lap24\bin\Debug\lap24.exe
+C:\Users\DELL\source\repos\exam\lap24\lap24\bin\Debug\lap24.pdb
+C:\Users\DELL\source\repos\exam\lap24\lap24\obj\Debug\lap24.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap24\lap24\obj\Debug\lap24.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap24\lap24\obj\Debug\lap24.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap24\lap24\obj\Debug\lap24.exe
+C:\Users\DELL\source\repos\exam\lap24\lap24\obj\Debug\lap24.pdb

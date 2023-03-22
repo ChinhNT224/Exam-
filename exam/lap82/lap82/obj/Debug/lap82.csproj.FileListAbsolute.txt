@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap82\lap82\bin\Debug\lap82.exe.config
+C:\Users\DELL\source\repos\exam\lap82\lap82\bin\Debug\lap82.exe
+C:\Users\DELL\source\repos\exam\lap82\lap82\bin\Debug\lap82.pdb
+C:\Users\DELL\source\repos\exam\lap82\lap82\obj\Debug\lap82.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap82\lap82\obj\Debug\lap82.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap82\lap82\obj\Debug\lap82.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap82\lap82\obj\Debug\lap82.exe
+C:\Users\DELL\source\repos\exam\lap82\lap82\obj\Debug\lap82.pdb

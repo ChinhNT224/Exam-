@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Lap12\Lap12\bin\Debug\Lap12.exe.config
+C:\Users\DELL\source\repos\Lap12\Lap12\bin\Debug\Lap12.exe
+C:\Users\DELL\source\repos\Lap12\Lap12\bin\Debug\Lap12.pdb
+C:\Users\DELL\source\repos\Lap12\Lap12\obj\Debug\Lap12.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lap12\Lap12\obj\Debug\Lap12.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Lap12\Lap12\obj\Debug\Lap12.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lap12\Lap12\obj\Debug\Lap12.exe
+C:\Users\DELL\source\repos\Lap12\Lap12\obj\Debug\Lap12.pdb

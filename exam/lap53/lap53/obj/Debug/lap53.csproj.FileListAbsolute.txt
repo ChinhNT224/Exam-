@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap53\lap53\bin\Debug\lap53.exe.config
+C:\Users\DELL\source\repos\exam\lap53\lap53\bin\Debug\lap53.exe
+C:\Users\DELL\source\repos\exam\lap53\lap53\bin\Debug\lap53.pdb
+C:\Users\DELL\source\repos\exam\lap53\lap53\obj\Debug\lap53.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap53\lap53\obj\Debug\lap53.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap53\lap53\obj\Debug\lap53.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap53\lap53\obj\Debug\lap53.exe
+C:\Users\DELL\source\repos\exam\lap53\lap53\obj\Debug\lap53.pdb

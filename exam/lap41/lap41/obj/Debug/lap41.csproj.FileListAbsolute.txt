@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap41\lap41\obj\Debug\lap41.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap41\lap41\obj\Debug\lap41.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap41\lap41\obj\Debug\lap41.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap41\lap41\bin\Debug\lap41.exe.config
+C:\Users\DELL\source\repos\exam\lap41\lap41\bin\Debug\lap41.exe
+C:\Users\DELL\source\repos\exam\lap41\lap41\bin\Debug\lap41.pdb
+C:\Users\DELL\source\repos\exam\lap41\lap41\obj\Debug\lap41.exe
+C:\Users\DELL\source\repos\exam\lap41\lap41\obj\Debug\lap41.pdb

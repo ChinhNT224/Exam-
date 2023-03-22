@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap51\lap51\bin\Debug\lap51.exe.config
+C:\Users\DELL\source\repos\exam\lap51\lap51\bin\Debug\lap51.exe
+C:\Users\DELL\source\repos\exam\lap51\lap51\bin\Debug\lap51.pdb
+C:\Users\DELL\source\repos\exam\lap51\lap51\obj\Debug\lap51.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap51\lap51\obj\Debug\lap51.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap51\lap51\obj\Debug\lap51.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap51\lap51\obj\Debug\lap51.exe
+C:\Users\DELL\source\repos\exam\lap51\lap51\obj\Debug\lap51.pdb

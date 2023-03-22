@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\exam\lap62\lap62\bin\Debug\lap62.exe.config
+C:\Users\DELL\source\repos\exam\lap62\lap62\bin\Debug\lap62.exe
+C:\Users\DELL\source\repos\exam\lap62\lap62\bin\Debug\lap62.pdb
+C:\Users\DELL\source\repos\exam\lap62\lap62\obj\Debug\lap62.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam\lap62\lap62\obj\Debug\lap62.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\exam\lap62\lap62\obj\Debug\lap62.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam\lap62\lap62\obj\Debug\lap62.exe
+C:\Users\DELL\source\repos\exam\lap62\lap62\obj\Debug\lap62.pdb
